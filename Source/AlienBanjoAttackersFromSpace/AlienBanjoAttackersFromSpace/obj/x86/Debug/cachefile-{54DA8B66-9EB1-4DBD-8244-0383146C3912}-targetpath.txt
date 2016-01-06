@@ -1,0 +1,24 @@
+Content\accordian.xnb
+Content\AttackerBanjo.xnb
+Content\DeadlyStrummer.xnb
+Content\note.xnb
+Content\PlainBanjo.xnb
+Content\explosion.xnb
+Content\starry space.xnb
+Content\ABAFSbackground.xnb
+Content\starry space 2.xnb
+Content\currentScoreFont.xnb
+Content\livesFont.xnb
+Content\anyKeyFont.xnb
+Content\gameOverFont.xnb
+Content\anyKeyOverFont.xnb
+Content\highScoreFont.xnb
+Content\highScore1Font.xnb
+Content\highScore2Font.xnb
+Content\highScore3Font.xnb
+Content\LevelFont.xnb
+Content\ABAFSFont.xnb
+Content\attractmodevideo-1.xnb
+Content\attractmodevideo-1.wmv
+Content\201111__abuseart__smashing-an-acoustic-guitar.xnb
+Content\Accordion Solo.xnb

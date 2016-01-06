@@ -1,0 +1,148 @@
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\accordian.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\AttackerBanjo.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\DeadlyStrummer.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\note.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\PlainBanjo.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\ABAFSbackground.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\AlienBanjoAttackersFromSpace.exe
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\AlienBanjoAttackersFromSpace.pdb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\AlienBanjoAttackersFromSpace.csprojResolveAssemblyReference.cache
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\AlienBanjoAttackersFromSpace.exe
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\AlienBanjoAttackersFromSpace.pdb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\currentScoreFont.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\livesFont.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\anyKeyFont.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\attractmodevideo-1.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\attractmodevideo-1.wmv
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\gameOverFont.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\anyKeyOverFont.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScoreFont.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\AlienBanjoAttackersFromSpace.exe.config
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore1Font.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore2Font.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore3Font.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\LevelFont.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\201111__abuseart__smashing-an-acoustic-guitar.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\Accordion Solo.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\starry space.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\starry space 2.xnb
+C:\Users\Armzin\Documents\Visual Studio 2013\Projects\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\ABAFSFont.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\accordian.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\AttackerBanjo.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\DeadlyStrummer.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\note.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\PlainBanjo.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\starry space.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\ABAFSbackground.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\starry space 2.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\currentScoreFont.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\livesFont.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\anyKeyFont.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\gameOverFont.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\anyKeyOverFont.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScoreFont.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore1Font.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore2Font.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore3Font.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\LevelFont.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\ABAFSFont.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\attractmodevideo-1.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\201111__abuseart__smashing-an-acoustic-guitar.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\Accordion Solo.xnb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\attractmodevideo-1.wmv
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\AlienBanjoAttackersFromSpace.exe.config
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\AlienBanjoAttackersFromSpace.exe
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\AlienBanjoAttackersFromSpace.pdb
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\AlienBanjoAttackersFromSpace.csprojResolveAssemblyReference.cache
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\AlienBanjoAttackersFromSpace.exe
+C:\Users\Armzin\Documents\University Work\Uni Work USB Stuff\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\AlienBanjoAttackersFromSpace.pdb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\accordian.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\AttackerBanjo.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\DeadlyStrummer.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\note.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\PlainBanjo.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\starry space.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\ABAFSbackground.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\starry space 2.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\currentScoreFont.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\livesFont.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\anyKeyFont.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\gameOverFont.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\anyKeyOverFont.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScoreFont.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore1Font.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore2Font.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore3Font.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\LevelFont.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\ABAFSFont.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\attractmodevideo-1.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\201111__abuseart__smashing-an-acoustic-guitar.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\Accordion Solo.xnb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\attractmodevideo-1.wmv
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\AlienBanjoAttackersFromSpace.exe.config
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\AlienBanjoAttackersFromSpace.exe
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\AlienBanjoAttackersFromSpace.pdb
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\AlienBanjoAttackersFromSpace.csprojResolveAssemblyReference.cache
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\AlienBanjoAttackersFromSpace.exe
+C:\Users\Armzin\Documents\University Work\Year 1 (Certificate)\Semester 2\Programming 2\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\AlienBanjoAttackersFromSpace.pdb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\accordian.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\AttackerBanjo.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\DeadlyStrummer.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\note.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\PlainBanjo.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\explosion.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\starry space.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\ABAFSbackground.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\starry space 2.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\currentScoreFont.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\livesFont.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\anyKeyFont.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\gameOverFont.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\anyKeyOverFont.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScoreFont.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore1Font.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore2Font.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore3Font.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\LevelFont.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\ABAFSFont.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\attractmodevideo-1.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\201111__abuseart__smashing-an-acoustic-guitar.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\Accordion Solo.xnb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\attractmodevideo-1.wmv
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\AlienBanjoAttackersFromSpace.exe.config
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\AlienBanjoAttackersFromSpace.exe
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\AlienBanjoAttackersFromSpace.pdb
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\AlienBanjoAttackersFromSpace.csprojResolveAssemblyReference.cache
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\AlienBanjoAttackersFromSpace.exe
+D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\AlienBanjoAttackersFromSpace.pdb

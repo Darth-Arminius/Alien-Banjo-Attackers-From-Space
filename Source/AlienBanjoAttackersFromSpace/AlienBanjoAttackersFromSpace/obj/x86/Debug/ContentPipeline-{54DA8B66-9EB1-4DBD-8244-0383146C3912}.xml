@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>accordian.png</Source>
+      <Name>accordian</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\accordian.xnb</Output>
+      <Time>2014-03-19T18:08:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>AttackerBanjo.png</Source>
+      <Name>AttackerBanjo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\AttackerBanjo.xnb</Output>
+      <Time>2014-03-19T18:08:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>DeadlyStrummer.png</Source>
+      <Name>DeadlyStrummer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\DeadlyStrummer.xnb</Output>
+      <Time>2014-03-19T18:08:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>note.png</Source>
+      <Name>note</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\note.xnb</Output>
+      <Time>2014-03-19T18:08:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PlainBanjo.png</Source>
+      <Name>PlainBanjo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\PlainBanjo.xnb</Output>
+      <Time>2014-03-19T18:08:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2014-04-30T18:15:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>starry space.png</Source>
+      <Name>starry space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\starry space.xnb</Output>
+      <Time>2014-04-30T21:38:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ABAFSbackground.png</Source>
+      <Name>ABAFSbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\ABAFSbackground.xnb</Output>
+      <Time>2014-04-30T21:44:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>starry space 2.png</Source>
+      <Name>starry space 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\starry space 2.xnb</Output>
+      <Time>2014-04-30T23:20:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>currentScoreFont.spritefont</Source>
+      <Name>currentScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\currentScoreFont.xnb</Output>
+      <Time>2014-04-23T17:53:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>livesFont.spritefont</Source>
+      <Name>livesFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\livesFont.xnb</Output>
+      <Time>2014-04-23T18:23:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>anyKeyFont.spritefont</Source>
+      <Name>anyKeyFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\anyKeyFont.xnb</Output>
+      <Time>2014-04-24T14:23:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gameOverFont.spritefont</Source>
+      <Name>gameOverFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\gameOverFont.xnb</Output>
+      <Time>2014-04-24T18:54:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>anyKeyOverFont.spritefont</Source>
+      <Name>anyKeyOverFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\anyKeyOverFont.xnb</Output>
+      <Time>2014-04-24T18:50:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>highScoreFont.spritefont</Source>
+      <Name>highScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScoreFont.xnb</Output>
+      <Time>2014-04-24T16:28:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>highScore1Font.spritefont</Source>
+      <Name>highScore1Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore1Font.xnb</Output>
+      <Time>2014-04-24T18:48:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>highScore2Font.spritefont</Source>
+      <Name>highScore2Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore2Font.xnb</Output>
+      <Time>2014-04-24T18:48:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>highScore3Font.spritefont</Source>
+      <Name>highScore3Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\highScore3Font.xnb</Output>
+      <Time>2014-04-24T18:48:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelFont.spritefont</Source>
+      <Name>LevelFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\LevelFont.xnb</Output>
+      <Time>2014-04-27T22:28:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ABAFSFont.spritefont</Source>
+      <Name>ABAFSFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\ABAFSFont.xnb</Output>
+      <Time>2014-04-30T23:33:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>attractmodevideo-1.wmv</Source>
+      <Name>attractmodevideo-1</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\attractmodevideo-1.xnb</Output>
+      <Extra>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\attractmodevideo-1.wmv</Extra>
+      <Time>2014-04-24T16:02:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>201111__abuseart__smashing-an-acoustic-guitar.wav</Source>
+      <Name>201111__abuseart__smashing-an-acoustic-guitar</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\201111__abuseart__smashing-an-acoustic-guitar.xnb</Output>
+      <Time>2014-04-27T23:18:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Accordion Solo.wav</Source>
+      <Name>Accordion Solo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\Accordion Solo.xnb</Output>
+      <Time>2014-04-30T16:19:40+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{54DA8B66-9EB1-4DBD-8244-0383146C3912}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpaceContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Uni Work\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\AlienBanjoAttackersFromSpace\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-08-28T13:06:00.9568646+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
